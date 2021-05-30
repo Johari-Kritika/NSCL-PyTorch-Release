@@ -61,7 +61,7 @@ conda install pytorch torchvision -c pytorch
 
 ## Dataset preparation
 
-To replicate the experiments, you need to prepare your dataset as the following. Taking the CLEVR dataset as an example.
+To replicate the experiments, you need to prepare your dataset as the following or you can download directly from [here](https://drive.google.com/file/d/1vBSJASJjbGmOCpO5N1rqP3S75_Ky4Td8/view?usp=sharing). Taking the CLEVR dataset as an example.
 
 ```
 clevr
